@@ -2,7 +2,7 @@
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "Influencer"
-theme = "influencer-hugo"
+theme = "influencer"
 summaryLength = "10"
 paginate = 6
 
