@@ -78,7 +78,7 @@ copyright = "Copyright &copy; 2019 [GetHugoThemes](https://gethugothemes.com) Al
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   preloader = "" # use .png , .svg or .gif format
 
   # Navigation get start button
