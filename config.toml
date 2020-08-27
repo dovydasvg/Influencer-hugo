@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://dovydasvangucht.com"
 languageCode = "lt-lt"
 title = "Dovydas Van Gucht"
 theme = "influencer"
@@ -95,19 +95,19 @@ content = "Each theme featured at the Bootstrap marketplace has been reviewed by
 [[params.share]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/DVanGucht/"
 
 [[params.share]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "medium"
+icon = "ti-pencil" # themify icon : https://themify.me/themify-icons
+link = "https://medium.com/@dovydasvg_38832"
 
 [[params.share]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/dovydasvg/"
 
 [[params.share]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "github.com/dovydasvg/"
