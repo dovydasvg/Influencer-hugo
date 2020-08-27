@@ -11,7 +11,7 @@ banner:
 
 ######################## Book Preview ##########################
 preview:
-  enable : true
+  enable : false
   pagePreview:
     # page preview loop
     - image : "images/about/book_page.png"
@@ -35,7 +35,7 @@ preview:
 
   # button
   button:
-    enable : true
+    enable : false
     label : "Purchase on Amazon"
     link : "#"
 
@@ -45,19 +45,19 @@ service:
   enable : true
   serviceItem:
     # service item loop
-    - title : "Experience"
+    - title : "Kalbėjimas"
       icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+      content : "Kalbėk įtaigiai tiek draugų būryje, tiek ir prieš auditoriją."
       
     # service item loop
-    - title : "Marketing Goals"
-      icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+    - title : "Pardavimai"
+      icon : "ti-stats-up" # themify icon pack : https://themify.me/themify-icons
+      content : "Parduok efektyviai ir su šypsena."
       
     # service item loop
-    - title : "Targetting Vission"
-      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
+    - title : "Rašymas"
+      icon : "ti-pencil-alt" # themify icon pack : https://themify.me/themify-icons
+      content : "Rašyk įtikinamai ir įdomiai."
 
 
 ######################### Quote #############################
@@ -70,24 +70,24 @@ quote:
 ######################### Chapters ##########################
 chapters:
   enable : true
-  title : "Mokymai Tau"
-  subtitle : "Libero atque veniam molestiae ipsa aliquid quam facilis dolore."
+  title : "Mokymai"
+  subtitle : "Nuo pardavimų iki kalbėjimo angliškai - raskite tai kas jums veiks."
   chapter:
     # chapter preview loop
     - title : "Speak in English"
-      content : "Kalbėjimo lavininimo klubas. Kalbėkite su žmonėmis angliškai neišeidami iš namų."
+      content : "Kalbėjimo lavininimo klubas. Kalbėk su žmonėmis angliškai neišeidama iš namų."
 
     # chapter preview loop
     - title : "Present in English"
-      content : "Inte"
+      content : "Viešųjų pristatymų lavininimas, kad idėjos išvykstų dienos šviesą. "
       
     # chapter preview loop
-    - title : "Chapter 3"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
+    - title : "Sell in English"
+      content : "Pardavimų lavinimas verslams - padidinkite savo pardavimus ir ištobulinkite savo darbuotojų anglų."
       
     # chapter preview loop
-    - title : "Chapter 4"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
+    - title : "Write in English"
+      content : "Individualios pamokos, kad lavinti tekstų rašymą anglų kalba."
       
 
 
