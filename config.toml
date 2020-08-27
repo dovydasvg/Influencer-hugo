@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-languageCode = "en-us"
-title = "Influencer"
+languageCode = "lt-lt"
+title = "Dovydas Van Gucht"
 theme = "influencer"
 summaryLength = "10"
 paginate = 6
