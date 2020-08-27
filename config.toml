@@ -34,34 +34,30 @@ paginate = 6
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "Knyga"
   URL = "book"
   weight = 1
   
   [[menu.main]]
-  name = "Chapter"
+  name = "Mokymai"
   URL = "chapter"
   weight = 2
   
   [[menu.main]]
-  name = "Reviews"
+  name = "Atsiliepimai"
   URL = "review"
   weight = 3
   
   [[menu.main]]
-  name = "Author"
+  name = "Apie"
   URL = "author"
   weight = 4
   
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 5
   
   [[menu.main]]
-  name = "Contact"
+  name = "Susisiekti"
   URL = "contact"
-  weight = 6
+  weight = 5
 
 
 #################### default parameters ################################
